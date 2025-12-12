@@ -1,0 +1,79 @@
+- title: "SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds"
+  image: images/publications/SASep.png
+  authors: "<b>Jinfeng Xu</b>, Xianzhi Li, Yuan Tang, Xu Han, Qiao Yu, Yixue Hao, Long Hu, Min Chen"
+  venue: <b>CVPR</b> 2025
+  paper: https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_SASep_Saliency-Aware_Structured_Separation_of_Geometry_and_Feature_for_Open_CVPR_2025_paper.pdf
+  code: https://github.com/JinfengX/SASep.git
+  project:
+
+- title: "PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation"
+  image: images/publications/PDF.png
+  authors: "<b>Jinfeng Xu</b>, Siyuan Yang, Xianzhi Li, Yuan Tang, Yixue Hao, Long Hu, Min Chen"
+  venue: <b>CVPR</b> 2024
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_PDF_A_Probability-Driven_Framework_for_Open_World_3D_Point_Cloud_CVPR_2024_paper.pdf
+  code: https://github.com/JinfengX/PointCloudPDF.git
+  project:
+
+- title: "CasFusionNet: A Cascaded Network for Point Cloud Semantic Scene Completion by Dense Feature Fusion"
+  image: images/publications/CasFusionNet.png
+  authors: "<b>Jinfeng Xu</b>, Xianzhi Li, Yuan Tang, Qiao Yu, Yixue Hao, Long Hu, Min Chen"
+  venue: <b>AAAI</b> 2023
+  paper: https://ojs.aaai.org/index.php/AAAI/article/view/25405
+  code: https://github.com/JinfengX/CasFusionNet.git
+  project:
+
+# ----- Sample entries without teaser images -----
+- title: "MoST: Efficient Monarch Sparse Tuning for 3D Representation Learning"
+  authors: "Xu Han, Yuan Tang, <b>Jinfeng Xu</b>, Xianzhi Li"
+  venue: IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025
+  paper: https://openaccess.thecvf.com/content/CVPR2025/html/Han_MoST_Efficient_Monarch_Sparse_Tuning_for_3D_Representation_Learning_CVPR_2025_paper.html
+  code: https://github.com/xhanxu/MoST.git
+
+- title: "More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding"
+  authors: "Yuan Tang, Xu Han, Xianzhi Li, Qiao Yu, <b>Jinfeng Xu</b>, Yixue Hao, Long Hu, Min Chen"
+  venue: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025
+  paper: https://ojs.aaai.org/index.php/AAAI/article/view/32783
+  code: https://github.com/TangYuan96/GreenPLM.git
+
+- title: "PointDreamer: Zero-Shot 3D Textured Mesh Reconstruction From Colored Point Cloud"
+  authors: "Qiao Yu, Xianzhi Li, Yuan Tang, Xu Han, <b>Jinfeng Xu</b>, Long Hu, Min Chen"
+  venue: IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2025
+  paper: https://ieeexplore.ieee.org/document/11113334
+  code: https://github.com/YuQiao0303/PointDreamer.git
+
+- title: "JIMR: Joint Semantic and Geometry Learning for Point Scene Instance Mesh Reconstruction"
+  authors: "Qiao Yu, Xianzhi Li, Yuan Tang, <b>Jinfeng Xu</b>, Long Hu, Yixue Hao, Min Chen"
+  venue: IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2024
+  paper: https://ieeexplore.ieee.org/abstract/document/10526474?casa_token=IuSt6V0sblwAAAAA:K1uVskZfgXojFLvDfFwwBAVVjPe4fJ4FgRgVsHZlicWlCf5qgOlFLameHIxtWhqD6q_oN2HGAXGqVg
+  code: https://github.com/YuQiao0303/JIMR.git
+
+- title: "Point-LGMask: Local and Global Contexts Embedding for Point Cloud Pre-Training With Multi-Ratio Masking"
+  authors: "Yuan Tang, Xianzhi Li, <b>Jinfeng Xu</b>, Qiao Yu, Long Hu, Yixue Hao, Min Chen"
+  venue: IEEE Transactions on Multimedia (<b>TMM</b>), 2023
+  paper: https://ieeexplore.ieee.org/document/10146493
+  code: https://github.com/TangYuan96/Point-LGMask.git
+
+- title: "Crowd Intelligent Grouping Collaboration Evacuation via Multi-agent Reinforcement Learning"
+  authors: "Yuan Tang, Xu Zhang, Rui Wang, <b>Jinfeng Xu</b>, Long Hu, Yixue Hao"
+  venue: International Conference on Computer Supported Cooperative Work in Design (<b>CSCWD</b>), 2023
+  paper: https://ieeexplore.ieee.org/document/10152607
+
+- title: "TIF: Trajectory and Information Flow Coupling Mechanism for Behavior Analysis in Autonomous Driving"
+  authors: "Rui Wang, <b>Jinfeng Xu</b>, Jia Liu, Di Wu, Yixue Hao, Xianzhi Li, Min Chen"
+  venue: IEEE Transactions on Intelligent Transportation Systems (<b>T-ITS</b>), 2022
+  paper: https://ieeexplore.ieee.org/abstract/document/9931502
+
+- title: "Drone enabled Smart Air-Agent for 6G Network"
+  authors: "Yiming Miao, <b>Jinfeng Xu</b>, Min Chen, Kai Hwang"
+  venue: IEEE International Conference on Communications (<b>ICC</b>), 2022
+  paper: https://ieeexplore.ieee.org/abstract/document/9838568
+
+- title: "Energy Efficient Task Caching and Offloading in UAV-Enabled Crowd Management"
+  authors: "Gaoxiang Wu, Qiang Liu, <b>Jinfeng Xu</b>, Yiming Miao, Matevž Pustišek"
+  venue: IEEE Sensors Journal, 2022
+  paper: https://ieeexplore.ieee.org/abstract/document/9838568
+  
+- title: "Auxiliary Diagnosis of COVID-19 Based on 5G-Enabled Federated Learning"
+  authors: "Rui Wang, <b>Jinfeng Xu</b>, Yujun Ma, Muhammad Talha, Mabrook S Al-Rakhami, Ahmed Ghoneim"
+  venue: IEEE Network, 2021
+  paper: https://ieeexplore.ieee.org/abstract/document/9454556

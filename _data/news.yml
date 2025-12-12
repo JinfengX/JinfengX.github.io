@@ -1,0 +1,13 @@
+---
+- text: "[07/2025] One paper (3D textured mesh reconstruction) was accepted to IEEE TVCG." # PointDreamer
+- text: "[03/2025] Two papers (SASep and MoST) were accepted to CVPR 2025."
+- text: "[10/2024] One paper (3D data-efficient point-language understanding) was accepted to AAAI 2025." # GreenPLM
+- text: "[05/2024] One paper (point scene instance mesh reconstruction) was accepted to IEEE TVCG." # JIMR
+- text: "[02/2024] One paper (open-world point cloud semantic segmentation) was accepted to CVPR 2024."
+- text: "[07/2023] One paper (point cloud pre-training) was accepted to IEEE TMM." # Point-LGMask
+- text: "[05/2023] One paper (multi-agent group evacuation) was accepted to CSCWD 2023." # Crowd Intelligent Grouping Collaboration Evacuation
+- text: "[11/2022] One paper (semantic scene completion) was accepted to AAAI 2023."
+- text: "[10/2022] One paper was accepted to IEEE T-ITS."
+- text: "[07/2022] One paper was accepted to IEEE Sensors Journal."
+- text: "[05/2022] One paper was accepted to IEEE ICC."
+- text: "[06/2021] One paper was accepted to IEEE Network."
