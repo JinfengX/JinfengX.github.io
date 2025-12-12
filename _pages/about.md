@@ -1,17 +1,17 @@
 ---
 permalink: /
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome!
-{: #home }
+<div id="home"></div>
 
 I am Jinfeng Xu, currently a Ph.D. candidate in Computer Science at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), advised by [Prof. Xianzhi Li](https://nini-lxz.github.io/). Prior to my Ph.D. studies, I received my B.Eng. degree in Automation from [Shandong University](https://www.en.sdu.edu.cn/).
 
-My current research centers on 3D computer vision, with a focus on point cloud semantic segmentation, open-world 3D scene understanding, and robust 3D perception in complex environments.. I am dedicated to developing generalizable learning frameworks that leverage large-scale models and data-efficient training to overcome the challenges of limited supervision in 3D domains.
+My current research centers on 3D computer vision, with a focus on point cloud semantic segmentation, open-world 3D scene understanding, and robust 3D perception in complex environments. I am dedicated to developing generalizable learning frameworks that leverage large-scale models and data-efficient training to overcome the challenges of limited supervision in 3D domains.
 
 I welcome research collaborations and interdisciplinary discussions related to 3D perception and open-world intelligence, and I am actively seeking postdoctoral opportunities to further develop cutting-edge research in these areas.
 
