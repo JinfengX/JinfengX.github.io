@@ -29,7 +29,7 @@ I welcome research collaborations and interdisciplinary discussions related to 3
 {% endif %}
 
 
-## Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=qsJCXFoAAAAJ&hl=en)]
+## Publications [[Google Scholar](https://scholar.google.com/citations?user=hFnNMEUAAAAJ)]
 {: #publications }
 {% assign pubs = site.data.publications %}
 {% if pubs %}
